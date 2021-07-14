@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/social-pre/static/css/main.e6e25ff5.chunk.css",
+    "main.js": "/social-pre/static/js/main.f294cd7e.chunk.js",
+    "main.js.map": "/social-pre/static/js/main.f294cd7e.chunk.js.map",
+    "runtime-main.js": "/social-pre/static/js/runtime-main.b75b024f.js",
+    "runtime-main.js.map": "/social-pre/static/js/runtime-main.b75b024f.js.map",
+    "static/js/2.40ab934f.chunk.js": "/social-pre/static/js/2.40ab934f.chunk.js",
+    "static/js/2.40ab934f.chunk.js.map": "/social-pre/static/js/2.40ab934f.chunk.js.map",
+    "index.html": "/social-pre/index.html",
+    "static/css/main.e6e25ff5.chunk.css.map": "/social-pre/static/css/main.e6e25ff5.chunk.css.map",
+    "static/js/2.40ab934f.chunk.js.LICENSE.txt": "/social-pre/static/js/2.40ab934f.chunk.js.LICENSE.txt",
+    "static/media/patternBottom.32aa6571.svg": "/social-pre/static/media/patternBottom.32aa6571.svg",
+    "static/media/patternTop.9d4ba9c9.svg": "/social-pre/static/media/patternTop.9d4ba9c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b75b024f.js",
+    "static/js/2.40ab934f.chunk.js",
+    "static/css/main.e6e25ff5.chunk.css",
+    "static/js/main.f294cd7e.chunk.js"
+  ]
+}
